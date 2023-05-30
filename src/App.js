@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         <h1>Weather App</h1>
         <WeatherSearch />
-        <a href="">Open sourced on GitHub</a>
+        <a href="https://github.com/amegi73/weather-react">
+          Open sourced on GitHub
+        </a>
       </header>
     </div>
   );
